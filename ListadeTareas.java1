@@ -1,0 +1,28 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package Variables;
+
+/**
+ *
+ * @author labcca
+ */
+public class ListadeTareas {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        String Tarea1 = "ir al super";
+        String Tarea2 = "lavar la casa";
+        String Tarea3 = "recoger la sala";
+        String Tarea4 = "lavar el baño";
+        String Tarea5 = "recoger el cuerto";
+        System.out.print(Tarea1 + "tarea1");
+        
+              
+    
+    
+}
